@@ -1,12 +1,6 @@
 # Facebook Feed Clone App
 @prachijhaveri The focus has been on mimicing the UI from facebook as much as possible
 
-I have also built another project in my previous semester which is a mobile friendly, reactive, e-commerce platform with a focus on intuitive UI and appropriate color schemes to maximise click through rates(CTRs).
-
-The code to which can be reviewed at: [https://github.com/big-mac-overflow/The-Poster-Fanatics-by-Kushagra](url)
-
-
-
 # Features:
 * Feed Section
 * Stories Section
@@ -21,4 +15,9 @@ The code to which can be reviewed at: [https://github.com/big-mac-overflow/The-P
 # How to test on your machine
 ```Git clone [https://github.com/big-mac-overflow/Viral-Fission-Assignment](url)```
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# Another webdev Project
+I have also built another project in my previous semester which is a mobile friendly, reactive, e-commerce platform with a focus on intuitive UI and appropriate color schemes to maximise click through rates(CTRs).
+
+The code to which can be reviewed at: [https://github.com/big-mac-overflow/The-Poster-Fanatics-by-Kushagra](url) or by using
+```Git clone [https://github.com/big-mac-overflow/The-Poster-Fanatics-by-Kushagra](url)```
+The project itself has been described in a video [https://youtu.be/Xj9Ba-m-FqA](url) and an Advertisement for the same e-commerce platform can be found at: [https://youtu.be/Z6AvBloftHw](url)
