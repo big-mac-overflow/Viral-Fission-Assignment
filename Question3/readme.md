@@ -20,4 +20,6 @@ I have also built another project in my previous semester which is a mobile frie
 
 The code to which can be reviewed at: [https://github.com/big-mac-overflow/The-Poster-Fanatics-by-Kushagra](url) or by using
 ```Git clone [https://github.com/big-mac-overflow/The-Poster-Fanatics-by-Kushagra](url)```
-The project itself has been described in a video [https://youtu.be/Xj9Ba-m-FqA](url) and an Advertisement for the same e-commerce platform can be found at: [https://youtu.be/Z6AvBloftHw](url)
+
+* The project itself has been described in a video [https://youtu.be/Xj9Ba-m-FqA](url)
+* and an Advertisement for the same e-commerce platform can be found at: [https://youtu.be/Z6AvBloftHw](url)
